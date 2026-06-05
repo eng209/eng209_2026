@@ -1,0 +1,20 @@
+# Copy files from source repositories.
+# First column is the day files should be copied
+# Subsequent columns are regex expressions of files to
+# include (or-ed), and !regex of files to exclude (and-ed)
+# Schedule should be such that corrections of the week's
+# exercises become available on Thursday COB of the
+# same week.
+# DAY REGEX+
+2026.09.10 .*semaine01/.*corrige.*
+2026.09.17 .*semaine02/.*corrige.*
+2026.10.01 .*semaine03/.*corrige.*
+2026.10.08 .*semaine04/.*corrige.*
+2026.10.15 .*semaine05/.*corrige.*
+2026.11.05 .*semaine06/.*corrige.*
+2026.11.12 .*semaine07/.*corrige.*
+2026.11.19 .*semaine08/.*corrige.*
+2026.11.26 .*semaine09/.*corrige.*
+2026.12.02 .*semaine10/.*corrige.*
+2026.12.09 .*semaine11/.*corrige.*
+2026.12.16 .*semaine12/.*corrige.*
