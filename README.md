@@ -10,7 +10,7 @@ Procédure pour configurer ce projet sur un poste de travail virtuel ou personne
 
 1. Connectez-vous à une machine virtuelle EPFL via une machine de la salle d’exercice, ou à distance via **Omnissa Horizon Client** (instructions sur [https://vdi.epfl.ch](https://vdi.epfl.ch)).
 
-2. Depuis la machine virtuelle :
+2. Depuis la machine virtuelle `IC-CO-IN-SC-INJ-2026-Fall` :
    - Ouvrez l’application **Terminal** (via le lanceur à gauche).
    - Tapez exactement cette commande (attention aux espaces) :
 
