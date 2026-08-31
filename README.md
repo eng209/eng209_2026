@@ -24,14 +24,16 @@ curl 'https://raw.githubusercontent.com/eng209/eng209_2026/refs/heads/main/setup
    `~/Desktop/myfiles/eng209_2026/`  
 > ⚠️ **Important :** ouvrez bien **le dossier eng209_2026**, pas _myfiles_ directement.
 
-5. Chaque semaine, récupérez les séries et corrigés et glissez-les dans votre dossier _workspace_.
+> 💡 Cette procédure est à faire uniquement **la première fois**. Les fois suivantes, ouvrez simplement VS Code et rechargez le workspace si besoin.
+
+Ensuite, chaque semaine, récupérez les séries et corrigés et glissez-les dans votre dossier _workspace_.
 
 ```bash
 cd ~/Desktop/myfiles/eng209_2026
 ./setup.sh
 ```
 
-> 💡 Cette procédure est à faire uniquement **la première fois**. Les fois suivantes, ouvrez simplement VS Code et rechargez le workspace si besoin.
+
 
 ---
 
