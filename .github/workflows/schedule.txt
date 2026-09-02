@@ -6,11 +6,11 @@
 # exercises become available on Thursday COB of the
 # same week.
 # DAY REGEX+
-2026.09.10 .*semaine01/.*corrige.*
-2026.09.17 .*semaine02/.*corrige.*
-2026.10.01 .*semaine03/.*corrige.*
-2026.10.08 .*semaine04/.*corrige.*
-2026.10.15 .*semaine05/.*corrige.*
+2026.09.08 .*semaine01/.*corrige.*
+2026.09.15 .*semaine02/.*corrige.*
+2026.09.29 .*semaine03/.*corrige.*
+2026.10.06 .*semaine04/.*corrige.*
+2026.10.13 .*semaine05/.*corrige.*
 2026.11.05 .*semaine06/.*corrige.*
 2026.11.12 .*semaine07/.*corrige.*
 2026.11.19 .*semaine08/.*corrige.*
